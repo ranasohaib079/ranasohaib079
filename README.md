@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rana!
 👩🏻‍💻 Aspiring Software Engineer sharing about my journey and learnings in tech!<br/>
-👩🏻‍🎓 Studying [Computer Science] at DePaul University!<br/>
+👩🏻‍🎓 Graduated from DePaul University!<br/>
 💭 Currently learning about full-stack development!<br/>
 
 # 💻 Tech Stack
@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=ranasohaib079&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rana-hani-93356a251) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rshani/) 
